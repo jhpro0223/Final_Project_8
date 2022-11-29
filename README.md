@@ -61,9 +61,7 @@ The balanced accuracy score increased to 64.6% with this model.
 
 The "Low Risk precision rate increased to 95% with the recall at 64.6% giving this model an F1 score of 77.7%. "high Risk" still had a precision rate of 100% with the recall now at 65%.
 
-
 ![img5](Resources/ada_clas_classification.jpg)
-
 ![img5](Resources/ada_clas_table.jpg)
 
 ## Shortcoming of Week 1
