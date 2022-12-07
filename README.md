@@ -84,4 +84,4 @@ Due to the dataset being imbalanced, random oversampling was used to balance the
 ### Shortcomings in Week 2
 Possiblity of overfitting of data needs to be evaluated.
 
-### Week 3
+Google Slides presentation: https://docs.google.com/presentation/d/1RJUA9Z22VSU07C9NauIzTvf_5KOHWlUEm0I5xhRp-LE/edit?usp=sharing
