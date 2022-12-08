@@ -59,10 +59,13 @@ EasyEnsembleClassifier Model, a set of classifiers where individual decisions ar
 
 The balanced accuracy score increased to 64.6% with this model.
 
+![img5](Resources/easy_class_accuracy.jpg)
+
+
 The "Low Risk precision rate increased to 95% with the recall at 64.6% giving this model an F1 score of 77.7%. "high Risk" still had a precision rate of 100% with the recall now at 65%.
 
-![img5](Resources/ada_clas_classification.jpg)
-![img5](Resources/ada_clas_table.jpg)
+![img6](Resources/ada_clas_classification.jpg)
+![img7](Resources/ada_clas_table.jpg)
 
 ## Shortcoming of Week 1
 low precision and low accuracy in both the models of random forest.
@@ -71,15 +74,15 @@ low precision and low accuracy in both the models of random forest.
 
 KNN model was used to evaluate the model.
 Initially it was assumed that the dataset was balanced and the KNN Model was used on the data set with the following results.
-![img6](Resources/Mlenv_1_table.jpg)
+![img8](Resources/Mlenv_1_table.jpg)
 
-![img7](Resources/Mlenv_1_classification.jpg)
+![img9](Resources/Mlenv_1_classification.jpg)
 
 Due to the dataset being imbalanced, random oversampling was used to balance the dataset.
 
-![img8](Resources/mlenv_2_table.jpg)
+![img10](Resources/mlenv_2_table.jpg)
 
-![img9](Resources/mlenv_2_classification.jpg)
+![img11](Resources/mlenv_2_classification.jpg)
 
 ### Shortcomings in Week 2
 Possiblity of overfitting of data needs to be evaluated.
