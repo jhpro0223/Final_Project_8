@@ -78,13 +78,14 @@ The "Low Risk precision rate increased to 95% with the recall at 64.6% giving th
 ## Shortcoming of Week 1
 low precision and low accuracy in both the models of random forest.
 
-!<img width="577" alt="random forest model img" src="https://user-images.githubusercontent.com/108248030/206589513-196512c7-328c-4208-a4a2-eda855f37dfe.png">
+<img width="577" alt="random forest model img" src="https://user-images.githubusercontent.com/108248030/206589513-196512c7-328c-4208-a4a2-eda855f37dfe.png">
 
 
 ### Week two
 
 KNN model was used to evaluate the model.
 Initially it was assumed that the dataset was balanced and the KNN Model was used on the data set with the following results.
+
 ![img6](Resources/Mlenv_1_table.jpg)
 
 ![img7](Resources/Mlenv_1_classification.jpg)
