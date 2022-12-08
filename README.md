@@ -7,13 +7,15 @@ The client has made it primary that they want to evaluate the customers based on
 Each week the progress of the project is provide to the Supervisor and this section covers the machine learning module of the project.
 
 ## Database
+The database is a relational database. PostgreSQL has been used for the database and deployed in Amazon RDS.
+
 The original loan data is sourced from Kaggle Credit Risk Analytics case.
 [https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset](https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset "loan data source")
 
 The data has been further enriched by joining US census bureau data ([https://data.census.gov](https://data.census.gov "US census data")) using zip code as the key. Please refer to the Entity Relationship Diagram for reference. 
 ![](database/ERD.png)
 
-Please be noted that both loan data and census data have way too many columns, so for aesthetic purpose, only a few sample columns are shown in the diagram below. The metadata can also be found in the respect folders in census data folder.
+Please be noted that both loan data and census data have many columns, so for aesthetic purpose, only a few sample columns are shown in the diagram below. The metadata of census data can also be found in the respect folders in census data folder.
 
 ## Hypothesis statement
 
