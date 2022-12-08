@@ -6,6 +6,15 @@ A credit history dataset of the customers from a financial institution has been 
 The client has made it primary that they want to evaluate the customers based on their "loan status" as a potential risk parameter.
 Each week the progress of the project is provide to the Supervisor and this section covers the machine learning module of the project.
 
+## Database
+The original loan data is sourced from Kaggle Credit Risk Analytics case.
+[https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset](https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset "loan data source")
+
+The data has been further enriched by joining US census bureau data using zip code as the key. Please refer to the Entity Relationship Diagram for reference. 
+![](database/ERD.png)
+
+Please be noted that both loan data and census data have way too many columns, so for aesthetic purpose, only a few sample columns are shown in the diagram below. The metadata can also be found in the respect folders in []('./census_data')
+
 ## Hypothesis statement
 
 ## Report
