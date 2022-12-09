@@ -100,3 +100,5 @@ Due to the dataset being imbalanced, random oversampling was used to balance the
 Possiblity of overfitting of data needs to be evaluated.
 
 Google Slides presentation: https://docs.google.com/presentation/d/1RJUA9Z22VSU07C9NauIzTvf_5KOHWlUEm0I5xhRp-LE/edit?usp=sharing
+
+Tableau data: https://public.tableau.com/views/CreditDefaultAnalysisfromBankingInstitutions/Datacorelationandexploration?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
