@@ -101,7 +101,7 @@ Possiblity of overfitting of data needs to be evaluated.
 
 
 
-### Week 3 
+### Week three 
 
 number of loans and correlation with employment tenure
 
@@ -110,7 +110,33 @@ number of loans and correlation with employment tenure
 As the table shows Employment tenure for more than 10 years had the highest number of applications
 
 
+Loan status Total
+
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/108248030/206611192-565ce384-70c0-4d19-b227-1b2763b68571.png">
+
+
+Home Ownership
+
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/108248030/206611247-55ccb236-782a-4d40-9b8e-9dbf18bde4fe.png">
+
+
+Employee length vs Grade
+
+<img width="616" alt="image" src="https://user-images.githubusercontent.com/108248030/206611324-3beddb74-de2a-4a43-96eb-d112faeaff3c.png">
+
+
+Loan status vs employment length
+
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/108248030/206611395-b034c97f-4624-4236-9e0c-1f0591d3dda7.png">
+
+
+Grade vs Home ownership
+
+<img width="625" alt="image" src="https://user-images.githubusercontent.com/108248030/206611445-711f4563-c832-49ca-a566-3a4482d46636.png">
+
+
+Tableau data: https://public.tableau.com/views/CreditDefaultAnalysisfromBankingInstitutions/Datacorelationandexploration?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Google Slides presentation: https://docs.google.com/presentation/d/1RJUA9Z22VSU07C9NauIzTvf_5KOHWlUEm0I5xhRp-LE/edit?usp=sharing
 
-Tableau data: https://public.tableau.com/views/CreditDefaultAnalysisfromBankingInstitutions/Datacorelationandexploration?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
