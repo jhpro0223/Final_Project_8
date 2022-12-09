@@ -99,6 +99,18 @@ Due to the dataset being imbalanced, random oversampling was used to balance the
 ### Shortcomings in Week 2
 Possiblity of overfitting of data needs to be evaluated.
 
+
+
+### Week 3 
+
+number of loans and correlation with employment tenure
+
+<img width="380" alt="image" src="https://user-images.githubusercontent.com/108248030/206610835-42472ef3-921a-49da-ac88-00593b99dd33.png">
+
+As the table shows Employment tenure for more than 10 years had the highest number of applications
+
+
+
 Google Slides presentation: https://docs.google.com/presentation/d/1RJUA9Z22VSU07C9NauIzTvf_5KOHWlUEm0I5xhRp-LE/edit?usp=sharing
 
 Tableau data: https://public.tableau.com/views/CreditDefaultAnalysisfromBankingInstitutions/Datacorelationandexploration?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
